@@ -1,4 +1,4 @@
-#Giphy-App
+# Giphy-App
 
 
 #### This app have functionality. One displays random giphy from API call, and the other searches giphy based on user's input. 
