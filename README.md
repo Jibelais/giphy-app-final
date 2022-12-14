@@ -8,4 +8,5 @@
 ### Repo: [https://github.com/Jibelais/giphy-app-final](https://github.com/Jibelais/giphy-app-final)
 
 
-### Diagram: ![diagram](public/diagram.png)
+### Diagram: 
+![diagram](public/diagram.png)
